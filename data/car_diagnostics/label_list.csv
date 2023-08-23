@@ -1,0 +1,11 @@
+class_name,class_id
+Ball joint,0
+belt and pully,1
+brakes,2
+coil spring,3
+CV axle,4
+loose exaust and heat shield,5
+normal,6
+steering system,7
+sway bar link,8
+wheel bearing,9
